@@ -5,7 +5,7 @@ WJAlerter是对UIAlertController和UIAlertAction的封装，为了方便使用�
 ## Installation
 
 ```ruby
-pod 'WJAlerter'
+pod 'WJAlerter', '~>0.0.1'
 ```
 
 ## Author
