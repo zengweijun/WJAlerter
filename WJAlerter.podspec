@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "WJAlerter" 
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.license      = "MIT"          
   s.summary      = "WJAlerter是对UIAlertController和UIAlertAction的封装，为了方便使用和优雅美观，全部封装为链式语法" 
 
